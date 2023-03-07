@@ -2,5 +2,7 @@
 
 Created mainly for testing purposes, to show off [[http://github.com/voidekh/kyotonight.vim][kyotonight.vim]] Lightline theme.
 
+[[https://i.imgur.com/60oZkfr.mp4]]
+
 You might enjoy it for a quick taste of coding-ready Neovim, but [[https://github.com/voidekh/SigmaVimRc][SigmaVimRc]]
 is more complete experience.
