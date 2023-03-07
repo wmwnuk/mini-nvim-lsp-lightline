@@ -1,0 +1,6 @@
+#+title: VERY Minimal Neovim config with fancy Lightline and LSP
+
+Created mainly for testing purposes, to show off [[http://github.com/voidekh/kyotonight.vim][kyotonight.vim]] Lightline theme.
+
+You might enjoy it for a quick taste of coding-ready Neovim, but [[https://github.com/voidekh/SigmaVimRc][SigmaVimRc]]
+is more complete experience.
